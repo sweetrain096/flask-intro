@@ -1,0 +1,5 @@
+CREATE TABLE bands(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT,
+    debut INTEGER
+);
